@@ -8,4 +8,4 @@ The Seattle Airbnb Open Data from kaggle.com , which provided three datasets li
   2. Data preparation for modelling,
   3. sklearn linear regression model,
 
-Further work on this work will be to use different regression model on the data find the best method.
+Further work will be to use different regression model on the data find the best method.
